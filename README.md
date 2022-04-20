@@ -5,7 +5,7 @@ I ❤️ **Python** and **Finance** ✨
 
 ## 💻 Technologies I Love
 
-- Statistics
+- Statistics & Economic
 - Machine Learning
 - Deep Learning
 - Data Science
